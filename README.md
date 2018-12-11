@@ -1,0 +1,2 @@
+# lblog
+blog for learning
